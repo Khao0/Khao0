@@ -69,12 +69,28 @@ and retinal disease classification using optical coherence tomography
 
 ## Technical Skills
 
+### Web Programming and Application Development
+
 | Area | Technologies |
 | --- | --- |
-| Programming and scientific computing | Python, NumPy, Jupyter |
+| Languages | Python, TypeScript, JavaScript |
+| Frontend | React, Vite, Material UI, React Router |
+| Forms and data fetching | React Hook Form, Zod, TanStack Query |
+| Backend and APIs | FastAPI, Pydantic, REST APIs |
+| Databases and migrations | PostgreSQL, SQLAlchemy, Alembic |
+| Background processing | Celery, RabbitMQ |
+| Authentication and authorization | JWT, role-based access control |
+| Infrastructure and storage | Docker, Docker Compose, OpenResty, Redis, MinIO |
+| Testing | pytest, Vitest, React Testing Library, Playwright |
+| Observability | Grafana, Loki, Grafana Alloy |
+
+### Research and Machine Learning
+
+| Area | Tools and Methods |
+| --- | --- |
+| Scientific computing | Python, NumPy, SciPy, Jupyter |
 | Deep learning | PyTorch, TensorFlow |
-| Computer vision | OpenCV |
-| Web development | Django |
-| Infrastructure | Docker, Microsoft Azure, SSH |
-| Databases | PostgreSQL, SQLite |
-| Development tools | Vim |
+| Medical image analysis | OpenCV, image preprocessing, segmentation, classification |
+| Research methods | Domain adaptation, multimodal learning, sequential image analysis |
+| EEG and signal processing | MNE-Python |
+| Experiment tracking | MLflow |
