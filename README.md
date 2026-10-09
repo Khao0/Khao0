@@ -1,83 +1,80 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/1vlBgKjXEz1jTtsuiH/giphy.gif?cid=ecf05e47u84onub3xcl55r72400ruget0asa3jpgvqks3l4h&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
+<h1 align="center">Kwankhao Tangprasert</h1>
 
-###
+<p align="center">
+  Researcher · Medical Imaging · Deep Learning · Multimodal Learning
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/kwankhao/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-</div>
+<p align="center">
+  School of Information Science and Technology<br>
+  Vidyasirimedhi Institute of Science and Technology (VISTEC), Thailand
+</p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/kwankhao/">LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=67aUKjcAAAAJ&hl=en">Google Scholar</a> ·
+  <a href="https://orcid.org/0009-0007-2631-1623">ORCID</a> ·
+  <a href="https://www.kaggle.com/kwankhaotangprasert">Kaggle</a>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Khao0.Khao0&"  />
-</div>
+## About
 
-###
+I am a Researcher at the School of Information Science and Technology,
+Vidyasirimedhi Institute of Science and Technology (VISTEC).
+My research interests include medical imaging, deep learning, and
+multimodal learning.
 
-<h1 align="center">Hello World("print") 👋</h1>
+Previously, I worked as a Research Assistant at Khon Kaen University.
+My work has included bone age assessment from hand and wrist radiographs
+and retinal disease classification using optical coherence tomography
+(OCT) images.
 
-###
+## Research Interests
 
-<h3 align="left">👩‍💻  About Me</h3>
+- Deep learning for medical image analysis
+- Computer vision and image segmentation
+- Sequential analysis of OCT images
+- Multimodal learning and domain adaptation
 
-###
+## Selected Projects
 
-<p align="left">Hi, I'm Kwankhao from Thailand 🇹🇭<br><br><br> 🔭 I'm currently working as a Machine Learning Research Assistant at Khon Kaen University, focusing on applying deep learning to medical imaging and AI-based diagnostics.<br><br>    🧠 I’m passionate about computer vision, sequential data analysis, and medical AI research.<br><br>    📚 Currently diving deeper into Large Language Models (LLMs) and exploring how they can be integrated into OCR project.<br><br>    🌱 In my free time, I love gardening, watching anime, and exploring new tech tools and frameworks.</p>
+| Project | Focus |
+| --- | --- |
+| [HiDA-BAA](https://github.com/Khao0/HiDA-BAA) | Hierarchical domain adaptation for bone age assessment |
+| [HandXRay-Preprocessing](https://github.com/Khao0/HandXRay-Preprocessing) | Detection and segmentation for preprocessing hand and wrist radiographs |
+| [OCT SRF Classification](https://github.com/Khao0/oct-srf-classification) | Classification of retinal diseases presenting with subretinal fluid in OCT images |
 
-###
+## Selected Publications
 
-<h3 align="left">🛠 Language and tools</h3>
+- **Enhanced Retinal-Choroidal Disorders Classification Model via Temporal Sequence Analysis of OCT Images Across Multiple Lines of Fovea**  
+  *2025 International Conference on Artificial Intelligence in Information and Communication (ICAIIC).*  
+  [Paper](https://doi.org/10.1109/ICAIIC64266.2025.10920750)
 
-###
+- **Diagnostic Performance of Machine Learning Technology Using Optical Coherence Tomographic Image in Retinal Diseases Presented with Subretinal Fluid**  
+  *Retina*, 2025.  
+  [Publication details](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=67aUKjcAAAAJ&citation_for_view=67aUKjcAAAAJ:u-x6o8ySG0sC)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-</div>
+- **Bone age assessment: comparative analysis of Greulich-Pyle and Tanner-Whitehouse 3 by pediatric radiologists and endocrinologists**  
+  *BMC Medical Imaging*, 2026.  
+  [Paper](https://doi.org/10.1186/s12880-026-02350-y)
 
-###
+## Research Datasets
 
-<h3 align="left">Tech Stacks</h3>
+- **Digital Hand Atlas Hand Mask Dataset**  
+  [Zenodo](https://doi.org/10.5281/zenodo.22257807) ·
+  [Kaggle](https://doi.org/10.34740/kaggle/dsv/19370797)
 
-###
+- **RSNA Pediatric Bone Age Hand Mask Dataset**  
+  [Zenodo](https://doi.org/10.5281/zenodo.22258659) ·
+  [Kaggle](https://doi.org/10.34740/kaggle/dsv/19371354)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-</div>
+## Technical Skills
 
-###
-
-<h3 align="left">Machine Learning Framework</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-</div>
-
-###
-
+| Area | Technologies |
+| --- | --- |
+| Programming and scientific computing | Python, NumPy, Jupyter |
+| Deep learning | PyTorch, TensorFlow |
+| Computer vision | OpenCV |
+| Web development | Django |
+| Infrastructure | Docker, Microsoft Azure, SSH |
+| Databases | PostgreSQL, SQLite |
+| Development tools | Vim |
