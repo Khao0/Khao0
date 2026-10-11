@@ -51,7 +51,7 @@ and retinal disease classification using optical coherence tomography
 
 - **Diagnostic Performance of Machine Learning Technology Using Optical Coherence Tomographic Image in Retinal Diseases Presented with Subretinal Fluid**  
   *Retina*, 2025.  
-  [Publication details](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=67aUKjcAAAAJ&citation_for_view=67aUKjcAAAAJ:u-x6o8ySG0sC)
+  [Paper]([https://scholar.google.com/citations?view_op=view_citation&hl=en&user=67aUKjcAAAAJ&citation_for_view=67aUKjcAAAAJ:u-x6o8ySG0sC](https://www.ovid.com/jnls/retinajournal/abstract/10.1097/iae.0000000000004708~diagnostic-performance-of-machine-learning-technology-using?context=latestarticles&redirectionsource=fulltextview))
 
 - **Bone age assessment: comparative analysis of Greulich-Pyle and Tanner-Whitehouse 3 by pediatric radiologists and endocrinologists**  
   *BMC Medical Imaging*, 2026.  
