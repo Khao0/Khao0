@@ -73,15 +73,13 @@ and retinal disease classification using optical coherence tomography
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Python, TypeScript, JavaScript |
-| Frontend | React, Vite, Material UI, React Router |
-| Forms and data fetching | React Hook Form, Zod, TanStack Query |
+| Languages | Python, TypeScript, Lua |
+| Frontend | React, Vue, Vite|
 | Backend and APIs | FastAPI, Pydantic, REST APIs |
 | Databases and migrations | PostgreSQL, SQLAlchemy, Alembic |
 | Background processing | Celery, RabbitMQ |
-| Authentication and authorization | JWT, role-based access control |
+| Authentication and authorization | JWT, OAuth2, SSO |
 | Infrastructure and storage | Docker, Docker Compose, OpenResty, Redis, MinIO |
-| Testing | pytest, Vitest, React Testing Library, Playwright |
 | Observability | Grafana, Loki, Grafana Alloy |
 
 ### Research and Machine Learning
@@ -89,8 +87,8 @@ and retinal disease classification using optical coherence tomography
 | Area | Tools and Methods |
 | --- | --- |
 | Scientific computing | Python, NumPy, SciPy, Jupyter |
-| Deep learning | PyTorch, TensorFlow |
+| Deep learning | PyTorch, Keras, TensorFlow |
 | Medical image analysis | OpenCV, image preprocessing, segmentation, classification |
 | Research methods | Domain adaptation, multimodal learning, sequential image analysis |
 | EEG and signal processing | MNE-Python |
-| Experiment tracking | MLflow |
+| Experiment tracking | Weight&Bias |
